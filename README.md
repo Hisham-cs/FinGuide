@@ -28,6 +28,22 @@
  - [ ] Navigate to the "Budget" section.
  - [ ] Enter income and expenses. 
  - [ ] Save your budget plan.
+ 
+ ### Investment Tips
+| Feature          | Description                       |
+|------------------|-----------------------------------|
+| Personalized     | Tailored to your financial goals. |
+| Educational      | Learn the basics of investing.    |
+| Alerts           | Get notified for market changes.  |
+
+### Generating Reports
+
+Generate comprehensive financial reports to analyze your spending and savings:
+
+```{ 
+"report":
+ { "income":
+  5000, "expenses": 3000, "savings": 2000  } }```
 
 ## Rename a file
 
@@ -156,8 +172,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC0xMT
-E5NjMyNjg5LDExNDgwNTY4ODgsMTA4NjkxODEwLDE0MDg5ODQ3
-ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LD
-EyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTU2NTE1NjU1MCwtMTQ3Nzc0MTg2LDEwNj
+UyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4
+MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OC
+w4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
 -->
