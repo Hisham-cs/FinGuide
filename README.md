@@ -43,7 +43,7 @@ Generate comprehensive financial reports to analyze your spending and savings:
 public class FinancialReport {
 
     public static void main(String[] args) {
-        Report report = new Report("2024-01-01 to 2024-04-31","SAR",new Income(10000, 8000, 2000),new Expenses(3000, 1200, 800, 400, 200, 400),2000,2000);
+        Report report = new Report("2024-01-01 to 2024-04-31","SAR",new Income(10000, 8000, 2000),new Expenses(6000),2000,2000);
         
         System.out.println("Total Income: " + report.income.total);
         System.out.println("Total Expenses: " + report.expenses.total);
@@ -73,14 +73,9 @@ class Income {
     }
 }
 class Expenses {
-    int total, housing, food, transportation, entertainment, utilities;
-    public Expenses(int total, int housing, int food, int transportation, int entertainment, int utilities) {
-        this.total = total;
-        this.housing = housing;
-        this.food = food;
-        this.transportation = transportation;
-        this.entertainment = entertainment;
-        this.utilities = utilities;
+    int totalExpenses
+    public Expenses(int totalExpenses) {
+        this.totalExpenses = totalExpenses;  
     }
 }
 ```
@@ -212,9 +207,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2Mj
-UxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2
-ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMj
-A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
-ODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01ND
+Y3NTU3NDYsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3
+NywtMTExOTYzMjY4OSwxMTQ4MDU2ODg4LDEwODY5MTgxMCwxND
+A4OTg0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LDg4Mzgy
+NzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
 -->
