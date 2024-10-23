@@ -83,7 +83,9 @@ class Expenses {
 
 ## Troubleshooting
 
-- Installation Issues: If the app doesn't install, ensure your OS meets the system requirements.
+- **Installation Issues:** If the app doesn't install, ensure your OS meets the system requirements
+- **Login Problems**: Check your internet connection or reset your password
+- 
 
 ## Delete a file
 
@@ -208,11 +210,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMD
-cxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgx
-OCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNT
-Q2NzU1NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0
-NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMT
-QwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4
-Mjc2OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzk0Njk3NjAsMjA0MTc0NDUyNSwyMD
+kyNjI2ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4
+MDUsMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMT
+E3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0
+MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OC
+wxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEw
+MzkyMDQ2OF19
 -->
