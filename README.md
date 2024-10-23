@@ -23,7 +23,7 @@
 
 ## User Guide -
 
-### Creating a Budget 
+### Creating a Budget Project
  - [ ] Open the app. 
  - [ ] Navigate to the "Budget" section.
  - [ ] Enter income and expenses. 
@@ -206,10 +206,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMj
-YwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5
-MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMT
-E0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3
-ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MC
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMj
+A0Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3
+NDYsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMT
+ExOTYzMjY4OSwxMTQ4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0
+NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5Ni
+wxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
 -->
