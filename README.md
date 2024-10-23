@@ -21,7 +21,7 @@
   - Download the package from the website.
   - Install using the terminal:  ```sudo dpkg -i FinGuide.deb ```
 
-## User Guide -
+## User Guide 
 
 ### Creating a Project
 To create a new financial project in FinGuide:
@@ -31,7 +31,7 @@ To create a new financial project in FinGuide:
  - [ ] Assign tasks and deadlines 
  - [ ] Save your project
  
- ### Collaboration --
+ ### Collaboration 
 | Feature          | Description                       |
 |------------------|-----------------------------------|
 | Shared Projects  | Collaborate on financial projects |
@@ -90,6 +90,7 @@ class Expenses {
 ## Advanced Usage
 
 ### Scripting
+Scripting calculates expenses and checks if they exceed a specified limit:
 
 
 
@@ -213,11 +214,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQ4NDI3NSwtMTAzOTQ2OTc2MCwyMD
-QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
-NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
-AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
-OTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OS
-wxMTQ4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2
-OTc4MTkzXX0=
+eyJoaXN0b3J5IjpbMTU4Mjc5NzM4LDIwOTQ0ODQyNzUsLTEwMz
+k0Njk3NjAsMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0
+MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMz
+IwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1
+NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLT
+ExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4
+NDc4M119
 -->
