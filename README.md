@@ -43,12 +43,13 @@ Generate comprehensive financial reports to analyze your spending and savings:
 public class FinancialReport {
 
     public static void main(String[] args) {
-        Report report = new Report("2024-01-01 to 2024-01-31","USD",newIncome(5000, 4000, 1000),new Expenses(3000, 1200, 800, 400, 200, 400),2000,2000);
+        Report report = new Report("2024-01-01 to 2024-01-31","USD",new Income(5000, 4000, 1000),new Expenses(3000, 1200, 800, 400, 200, 400),2000,2000);
         System.out.println("Total Income: " + report.income.total);
         System.out.println("Total Expenses: " + report.expenses.total);
         System.out.println("Net Balance: " + report.netBalance);
     }
 }
+
 class Report {
     String period;
     String currency;
@@ -226,7 +227,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIyMzg1NiwzNjI1MTM5OTIsLTE0Nz
+eyJoaXN0b3J5IjpbLTgxMDI0NDk4MCwzNjI1MTM5OTIsLTE0Nz
 c3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4
 ODgsMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLT
 ExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1
