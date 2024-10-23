@@ -106,9 +106,7 @@ public class ExpenseTracker {
 ```
 ### Integrations:
 
-### Integrations
-
-| Application Name      | Description | Website                   |
+| Application Name      | Description |      Website                   |
 |-----------------------|------------|---------------------------|
 | **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com(https://www.mint.com) |
 | **Tadawul**| Official platform for stocks in the Saudi financial market | [https://www.saudiexchange.sa/wps/portal/tadawul/home/] |
@@ -122,11 +120,11 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAxMzIxNjgsLTg2ODU1NTU2MiwxNj
-A2Nzk5OTYxLDE1NzgyNzI0NDYsMjA5NDQ4NDI3NSwtMTAzOTQ2
-OTc2MCwyMDQxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMy
-wyMzg2MTQ5NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0
-Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3ND
-YsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTEx
-OTYzMjY4OV19
+eyJoaXN0b3J5IjpbNzIzNjgxMDMyLC04Njg1NTU1NjIsMTYwNj
+c5OTk2MSwxNTc4MjcyNDQ2LDIwOTQ0ODQyNzUsLTEwMzk0Njk3
+NjAsMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMj
+M4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5
+OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LD
+M2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2
+MzI2ODldfQ==
 -->
