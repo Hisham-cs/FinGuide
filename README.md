@@ -89,7 +89,7 @@ class Expenses {
 
 ## Advanced Usage
 
-
+public class ExpenseChecker { public static void main(String[] args) { int totalExpenses = 2200; // إجمالي المصاريف int limit = 2000; // الحد المسموح // التحقق مما إذا كانت المصاريف تتجاوز الحد if (totalExpenses > limit) { System.out.println("تنبيه: المصاريف تجاوزت الحد المسموح به."); } else { System.out.println("المصاريف ضمن الحد المسموح."); } } }
 
 ## Export a file
 
@@ -210,11 +210,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NTg4OTcsLTEwMzk0Njk3NjAsMjA0MT
-c0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5
-LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMj
-YwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5
-MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMT
-E0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3
-ODE5M119
+eyJoaXN0b3J5IjpbLTY5MTU3NDkyMywtMTAzOTQ2OTc2MCwyMD
+QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
+NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
+AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
+OTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OS
+wxMTQ4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2
+OTc4MTkzXX0=
 -->
