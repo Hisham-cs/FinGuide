@@ -4,9 +4,9 @@
 ## Key Features
 
 - **Personal financial plan:** made plans based on user goals and financial status 📝
-- **Budget Management:** Track income and expenses Automatically 💰
-- **Investment Recommendations:** Get suggestions for stocks, bonds, and mutual funds 📈
--  **Expense Analysis:**  Visual breakdown of spending habits.
+- **Budget Management:** track income and expenses Automatically 💰
+- **Investment Recommendations:** tips for stocks, bonds, and mutual funds 📈
+-  **Expense Analysis:**  Visual breakdown of spending habits 📊
 
 
 
@@ -145,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODE5MTYxNCwxNDA4OTg0NzgzLC0yMD
-Y2OTc4MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5NiwxMjA0NTA4
-NDUwLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNzU5MDQ1MTEwLDE0MDg5ODQ3ODMsLTIwNj
+Y5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0
+NTAsLTMzMjQ1NTM2M119
 -->
