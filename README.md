@@ -106,9 +106,8 @@ public class ExpenseTracker {
 ```
 ### Integrations:
 
-| Application Name      | Description |      Website                   |
+| Application Name      | Description |      Website         |
 |-----------------------|------------|---------------------------|
-| **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com](https://www.mint.com) |
 | **Tadawul**| Official platform for stocks in the Saudi financial market | [tadawul.com.sa](https://www.saudiexchange.sa/wps/portal/tadawul/home/) |
 | **PayPal**| Online payment system for transactions and transfers.    | [paypal.com](https://www.paypal.com) |
 
@@ -122,12 +121,14 @@ public class ExpenseTracker {
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3OTQyOTI3LC04Njg1NTU1NjIsMTYwNj
-c5OTk2MSwxNTc4MjcyNDQ2LDIwOTQ0ODQyNzUsLTEwMzk0Njk3
-NjAsMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMj
-M4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5
-OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LD
-M2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2
-MzI2ODldfQ==
+eyJoaXN0b3J5IjpbMTgwMTE2NTUxNCwzNTc5NDI5MjcsLTg2OD
+U1NTU2MiwxNjA2Nzk5OTYxLDE1NzgyNzI0NDYsMjA5NDQ4NDI3
+NSwtMTAzOTQ2OTc2MCwyMDQxNzQ0NTI1LDIwOTI2MjY4MjcsMT
+MwNzE2MTQzMywyMzg2MTQ5NzksLTIyMzgzMTgwNSwxMDk1MDE0
+ODE4LC0zMjA0Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC
+01NDY3NTU3NDYsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1
+ODQ3N119
 -->
