@@ -3,7 +3,7 @@
 
 ## Key Features
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+**Personalized Financial Planning:** Tailor-made plans based on user goals and financial status.
 
 ## Create files and folders
 
@@ -140,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMD
-Q1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTMwMjkyNjMsLTExMDM5MjA0NjgsODgzOD
+I3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
 -->
