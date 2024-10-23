@@ -83,9 +83,9 @@ class Expenses {
 
 ## Troubleshooting
 
-- **Installation Issues:** If the app doesn't install, ensure your OS meets the system requirements
-- **Login Problems**: Check your internet connection or reset your password
-- **Inaccurate Budget Calculations:** If discrepancies occur, check your income and expense entries for accuracy and correct currency
+- **Installation Issues:** if the app doesn't install, ensure your OS meets the system requirements
+- **Login Problems**: check your internet connection or reset your password
+- **Inaccurate Budget Calculations:** if discrepancies occur, check your income and expense entries for accuracy and correct currency
 
 ## Delete a file
 
@@ -210,7 +210,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTM5OTk3MywtMTAzOTQ2OTc2MCwyMD
+eyJoaXN0b3J5IjpbLTM4NDE4NTU5NSwtMTAzOTQ2OTc2MCwyMD
 QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
 NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
 AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
