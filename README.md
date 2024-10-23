@@ -83,7 +83,7 @@ class Expenses {
 
 ## Troubleshooting
 
--**Installation Issues**: If the app doesn't install, ensure your OS meets the system requirements.
+- Installation Issues: If the app doesn't install, ensure your OS meets the system requirements.
 
 ## Delete a file
 
@@ -208,7 +208,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzgzOTgxMywyMDkyNjI2ODI3LDEzMD
+eyJoaXN0b3J5IjpbMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMD
 cxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgx
 OCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNT
 Q2NzU1NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0
