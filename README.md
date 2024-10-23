@@ -29,7 +29,7 @@
  - [ ] Enter income and expenses. 
  - [ ] Save your budget plan.
  
- ### Collaboration
+ ### Collaboration --
 | Feature          | Description                       |
 |------------------|-----------------------------------|
 | Personalized     | Tailored to user financial goals  |
@@ -206,10 +206,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NT
-AxNDgxOCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkx
-MCwtNTQ2NzU1NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNj
-UyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4
-MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OC
-w4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTMwNzE2MTQzMywyMzg2MTQ5NzksLTIyMz
+gzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMTAyNjAxMjY3
+NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEzOTkyLC0xND
+c3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OSwxMTQ4MDU2
+ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2OTc4MTkzLC
+0xMTAzOTIwNDY4LDg4MzgyNzY5NiwxMjA0NTA4NDUwLC0zMzI0
+NTUzNjNdfQ==
 -->
