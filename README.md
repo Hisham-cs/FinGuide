@@ -34,7 +34,7 @@ To create a new financial project in FinGuide:
  ### Collaboration --
 | Feature          | Description                       |
 |------------------|-----------------------------------|
-| Personalized     | Tailored to user financial goals  |
+| Shared Projects  | Collaborate on financial projects |
 | Educational      | Learn how to invest               |
 | Alerts           | Get notified for market changes   |
 
@@ -208,7 +208,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTk1ODkxNywxMzA3MTYxNDMzLDIzOD
+eyJoaXN0b3J5IjpbMTYyMzQ5MjA3NSwxMzA3MTYxNDMzLDIzOD
 YxNDk3OSwtMjIzODMxODA1LDEwOTUwMTQ4MTgsLTMyMDQ2OTk2
 NiwxMDI2MDEyNjc2LDExNzgzNTk5MTAsLTU0Njc1NTc0NiwzNj
 I1MTM5OTIsLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMy
