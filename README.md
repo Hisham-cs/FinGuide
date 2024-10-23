@@ -121,8 +121,9 @@ public class ExpenseTracker {
 
 
 ## Footnotes
-1. Learn more about budgeting techniques at [NerdWallet](https://www.nerdwallet.com/)
-2. 
+1. For more information on personal finance management, visit the Consumer Financial Protection Bureau's guide on managing money effectively at [CFPB Guide](https://www.consumerfinance.gov/)
+2. Learn more about budgeting techniques at [NerdWallet](https://www.nerdwallet.com/)
+
 
 
 
@@ -135,11 +136,11 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjEzODM1MywtMjEyMTAzODgwMSwxMz
-MwMDc0NzgwLDgzMjQxMjI1OCwzNTc5NDI5MjcsLTg2ODU1NTU2
-MiwxNjA2Nzk5OTYxLDE1NzgyNzI0NDYsMjA5NDQ4NDI3NSwtMT
-AzOTQ2OTc2MCwyMDQxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2
-MTQzMywyMzg2MTQ5NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC
-0zMjA0Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3
-NTU3NDZdfQ==
+eyJoaXN0b3J5IjpbMTcyNzU2MzEwLDIxMjYxMzgzNTMsLTIxMj
+EwMzg4MDEsMTMzMDA3NDc4MCw4MzI0MTIyNTgsMzU3OTQyOTI3
+LC04Njg1NTU1NjIsMTYwNjc5OTk2MSwxNTc4MjcyNDQ2LDIwOT
+Q0ODQyNzUsLTEwMzk0Njk3NjAsMjA0MTc0NDUyNSwyMDkyNjI2
+ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMT
+A5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1
+OTkxMF19
 -->
