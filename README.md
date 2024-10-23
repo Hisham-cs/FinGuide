@@ -88,7 +88,9 @@ class Expenses {
 - **Inaccurate Budget Calculations:** if discrepancies occur, check your income and expense entries for accuracy and correct currency
 
 ## Advanced Usage
-###
+
+### Scripting
+
 
 
 
@@ -211,7 +213,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDM1MTIzNiwtMTAzOTQ2OTc2MCwyMD
+eyJoaXN0b3J5IjpbMjA5NDQ4NDI3NSwtMTAzOTQ2OTc2MCwyMD
 QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
 NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
 AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
