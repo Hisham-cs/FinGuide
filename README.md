@@ -77,11 +77,8 @@ class Income {
 }
 
 class Expenses {
-    int total, housing,food;
- transportation;
-    int entertainment;
-    int utilities;
-
+    int total, housing,food,transportation,entertainment,utilities;
+    
     public Expenses(int total, int housing, int food, int transportation, int entertainment, int utilities) {
         this.total = total;
         this.housing = housing;
@@ -91,7 +88,6 @@ class Expenses {
         this.utilities = utilities;
     }
 }
-
 ```
 
 ## Rename a file
@@ -221,9 +217,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njg5MTUxMywzNjI1MTM5OTIsLTE0Nz
-c3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4
-ODgsMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLT
-ExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1
-NTM2M119
+eyJoaXN0b3J5IjpbMjcxNzgzODA0LDM2MjUxMzk5MiwtMTQ3Nz
+c0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4
+OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMT
+EwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1
+MzYzXX0=
 -->
