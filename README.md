@@ -32,9 +32,9 @@
  ### Investment Tips
 | Feature          | Description                       |
 |------------------|-----------------------------------|
-| Personalized     | Tailored to your financial goals. |
-| Educational      | Learn the basics of investing.    |
-| Alerts           | Get notified for market changes.  |
+| Personalized     | Tailored to user financial goals  |
+| Educational      | Learn how to invest               |
+| Alerts           | Get notified for market changes   |
 
 ### Generating Reports
 
@@ -206,10 +206,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQ2OTk2NiwxMDI2MDEyNjc2LDExNz
-gzNTk5MTAsLTU0Njc1NTc0NiwzNjI1MTM5OTIsLTE0Nzc3NDE4
-NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMT
-A4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5
-MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMj
+YwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5
+MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMT
+E0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3
+ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MC
+wtMzMyNDU1MzYzXX0=
 -->
