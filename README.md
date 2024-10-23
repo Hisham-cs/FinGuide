@@ -87,9 +87,9 @@ class Expenses {
 - **Login Problems**: check your internet connection or reset your password
 - **Inaccurate Budget Calculations:** if discrepancies occur, check your income and expense entries for accuracy and correct currency
 
-## Delete a file
+## Advanced Usage
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+
 
 ## Export a file
 
@@ -210,11 +210,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDE4NTU5NSwtMTAzOTQ2OTc2MCwyMD
-QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
-NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
-AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
-OTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OS
-wxMTQ4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2
-OTc4MTkzXX0=
+eyJoaXN0b3J5IjpbMzM3NTg4OTcsLTEwMzk0Njk3NjAsMjA0MT
+c0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5
+LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMj
+YwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5
+MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMT
+E0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3
+ODE5M119
 -->
