@@ -8,7 +8,7 @@
 -  **Expense Analysis:**  detailed visual reports on user spending habits 📊
 - **Goal Tracking:** set and track financial goals 🎯
 
-## Create files and folders
+## Installation Guide
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -143,7 +143,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNj
-Y5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0
-NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNDg5NjE5MTMxLDEwODY5MTgxMCwxNDA4OT
+g0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5
+NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
 -->
