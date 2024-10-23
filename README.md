@@ -21,7 +21,7 @@
   - Download the package from the website.
   - Install using the terminal:  ```sudo dpkg -i FinGuide.deb ```
 
-## User Guide
+## User Guide -
 
 ### Creating a Budget 
  - [ ] Open the app. 
@@ -169,7 +169,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Nzc5MzIzOCwtMTQ3Nzc0MTg2LDEwNj
+eyJoaXN0b3J5IjpbMTczMzMxMzUxMywtMTQ3Nzc0MTg2LDEwNj
 UyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4
 MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OC
 w4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
