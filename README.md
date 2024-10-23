@@ -23,7 +23,11 @@
 
 ## User Guide
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+### Creating a Budget 
+ - [ ] Open the app. 
+ - [ ] Navigate to the "Budget" section.
+ - [ ] Enter income and expenses. 
+ - [ ] Save your budget plan.
 
 ## Rename a file
 
@@ -152,8 +156,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDM3MDgwLDEwNjUyNTg0NzcsLTExMT
-k2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4
-MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMT
-IwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC0xMT
+E5NjMyNjg5LDExNDgwNTY4ODgsMTA4NjkxODEwLDE0MDg5ODQ3
+ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LD
+EyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
 -->
