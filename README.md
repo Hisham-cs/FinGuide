@@ -1,7 +1,7 @@
-#   FinGuide - Your Financial Advisor
+# FinGuide - Your Financial Advisor
  **financial advisory app** designed to help users manage their finances effectively. It offers finances advice, budgeting tools, and investment insights to ensure users make correct financial decisions.
 
-# Files
+## Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -140,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI4NzIxNDQsODgzODI3Njk2LDEyMD
-Q1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTIxMjgxNjI1Myw4ODM4Mjc2OTYsMTIwND
+UwODQ1MCwtMzMyNDU1MzYzXX0=
 -->
