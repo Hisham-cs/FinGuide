@@ -1,6 +1,6 @@
-#FinGuide
+# FinGuide - Your Financial Advisor
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+ **StackEdit**. financial advisory app designed to help users manage their finances effectively. It offers finances advice, budgeting tools, and investment insights to ensure users make correct financial decisions.
 
 
 # Files
@@ -142,5 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTY0Njc5NzAyNiwxMjA0NTA4NDUwLC0zMz
+I0NTUzNjNdfQ==
 -->
