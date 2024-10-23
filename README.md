@@ -23,9 +23,10 @@
 
 ## User Guide -
 
-### Creating a Budget Project
+### Creating a Project
+To create a new financial project in FinGuide:
  - [ ] Open the app. 
- - [ ] Navigate to the "Budget" section.
+ - [ ] navigate to "New Project".
  - [ ] Enter income and expenses. 
  - [ ] Save your budget plan.
  
@@ -206,11 +207,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzE2MTQzMywyMzg2MTQ5NzksLTIyMz
-gzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMTAyNjAxMjY3
-NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEzOTkyLC0xND
-c3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OSwxMTQ4MDU2
-ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2OTc4MTkzLC
-0xMTAzOTIwNDY4LDg4MzgyNzY5NiwxMjA0NTA4NDUwLC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMzkzODUxMzA0LDEzMDcxNjE0MzMsMjM4Nj
+E0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5OTY2
+LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2Mj
+UxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2
+ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4MywtMj
+A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
+ODQ1MF19
 -->
