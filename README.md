@@ -7,7 +7,7 @@
 - **Budget Management:** track income and expenses Automatically 💰
 - **Investment Recommendations:** tips for stocks, bonds, and mutual funds 📈
 -  **Expense Analysis:**  detailed visual reports on your spending habits 📊
-- 
+- **Goal Tracking:** set and monitor progress financial goals 🎯
 - 
 
 
@@ -147,7 +147,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA0ODg1NTcsMTQwODk4NDc4MywtMj
-A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
-ODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTQ2NDA0NDgzOSwxNDA4OTg0NzgzLC0yMD
+Y2OTc4MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5NiwxMjA0NTA4
+NDUwLC0zMzI0NTUzNjNdfQ==
 -->
