@@ -110,10 +110,14 @@ public class ExpenseTracker {
 
 | Application Name      | Description | Website                   |
 |-----------------------|------------|---------------------------|
-| **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com (https://www.mint.com) |
+| **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com(https://www.mint.com) |
+| **QuickBooks**        | Accounting software for managing finances and invoicing. | [quickbooks.intuit.com](https://quickbooks.intuit.com) |
 | **PayPal**            | Online payment system for transactions and transfers.    | [paypal.com](https://www.paypal.com) |
+| **Zapier**            | Automation tool for connecting Chronos with other apps.  | [zapier.com](https://zapier.com) |
 | **Google Sheets**     | Spreadsheet tool for advanced data analysis and tracking. | [sheets.google.com](https://sheets.google.com) |
-
+| **Xero**              | Cloud-based accounting software for small businesses.     | [xero.com](https://www.xero.com) |
+| **Trello**            | Project management tool to organize tasks and workflows.  | [trello.com](https://trello.com) |
+| **Dropbox**           | Cloud storage service for file sharing and collaboration.  | [dropbox.com](https://www.dropbox.com) |
 
 
 
@@ -122,11 +126,11 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjY5OTg5NCwxNjA2Nzk5OTYxLDE1Nz
-gyNzI0NDYsMjA5NDQ4NDI3NSwtMTAzOTQ2OTc2MCwyMDQxNzQ0
-NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5NzksLT
-IyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMTAyNjAx
-MjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEzOTkyLC
-0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OSwxMTQ4
-MDU2ODg4XX0=
+eyJoaXN0b3J5IjpbLTExMzkwMzU2NjUsMTYwNjc5OTk2MSwxNT
+c4MjcyNDQ2LDIwOTQ0ODQyNzUsLTEwMzk0Njk3NjAsMjA0MTc0
+NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5LC
+0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMjYw
+MTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LDM2MjUxMzk5Mi
+wtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2MzI2ODksMTE0
+ODA1Njg4OF19
 -->
