@@ -6,7 +6,8 @@
 - **Personal financial plan:** made plans based on user goals and financial status 📝
 - **Budget Management:** track income and expenses Automatically 💰
 - **Investment Recommendations:** tips for stocks, bonds, and mutual funds 📈
--  **Expense Analysis:**  Visual breakdown of spending habits 📊
+-  **Expense Analysis:**  detailed visual reports on your spending habits 📊
+- 
 
 
 
@@ -145,7 +146,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MDQ1MTEwLDE0MDg5ODQ3ODMsLTIwNj
-Y5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0
-NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE3ODI1MTkzMTQsMTQwODk4NDc4MywtMj
+A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
+ODQ1MCwtMzMyNDU1MzYzXX0=
 -->
