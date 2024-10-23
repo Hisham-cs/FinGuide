@@ -95,12 +95,8 @@ calculates total monthly expenses and checks if they exceed a specified limit
 public class ExpenseTracker {
     public static void main(String[] args) {
         int housing = 1200;
-        int utilities = 300;
-        int groceries = 400;
-        int transportation = 150;
-        int entertainment = 100;
         int threshold = 2000; 
-        int totalExpenses = housing + utilities + groceries + transportation + entertainment;
+        int totalExpenses = entertainment;
         if (totalExpenses > threshold) {
             System.out.println("Alert: Your total expenses are $" + totalExpenses + ", exceeding the threshold of $" + threshold + ".");
         } else {
@@ -235,11 +231,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODI3MjQ0NiwyMDk0NDg0Mjc1LC0xMD
-M5NDY5NzYwLDIwNDE3NDQ1MjUsMjA5MjYyNjgyNywxMzA3MTYx
-NDMzLDIzODYxNDk3OSwtMjIzODMxODA1LDEwOTUwMTQ4MTgsLT
-MyMDQ2OTk2NiwxMDI2MDEyNjc2LDExNzgzNTk5MTAsLTU0Njc1
-NTc0NiwzNjI1MTM5OTIsLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC
-0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMTA4NjkxODEwLDE0MDg5
-ODQ3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ1NTUzMTEsMTU3ODI3MjQ0NiwyMD
+k0NDg0Mjc1LC0xMDM5NDY5NzYwLDIwNDE3NDQ1MjUsMjA5MjYy
+NjgyNywxMzA3MTYxNDMzLDIzODYxNDk3OSwtMjIzODMxODA1LD
+EwOTUwMTQ4MTgsLTMyMDQ2OTk2NiwxMDI2MDEyNjc2LDExNzgz
+NTk5MTAsLTU0Njc1NTc0NiwzNjI1MTM5OTIsLTE0Nzc3NDE4Ni
+wxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMTA4
+NjkxODEwXX0=
 -->
