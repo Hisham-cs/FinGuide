@@ -19,7 +19,7 @@
  - Open the app and follow the setup guide. 
  3.  **Linux** 
   - Download the package from the website.
-  - Install using the terminal:  ```shell sudo dpkg -i finadvisor.deb ```
+  - Install using the terminal:  ```shell sudo dpkg -i FinGuide.deb ```
 
 
 ## Switch to another file
@@ -153,8 +153,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTExNzQ4NSwxMTQ4MDU2ODg4LDEwOD
-Y5MTgxMCwxNDA4OTg0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIw
-NDY4LDg4MzgyNzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMD
+g2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzky
+MDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX
+0=
 -->
