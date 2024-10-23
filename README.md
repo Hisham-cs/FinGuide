@@ -88,8 +88,9 @@ class Expenses {
 - **Inaccurate Budget Calculations:** if discrepancies occur, check your income and expense entries for accuracy and correct currency
 
 ## Advanced Usage
+###
 
-public class ExpenseChecker { public static void main(String[] args) { int totalExpenses = 2200; // إجمالي المصاريف int limit = 2000; // الحد المسموح // التحقق مما إذا كانت المصاريف تتجاوز الحد if (totalExpenses > limit) { System.out.println("تنبيه: المصاريف تجاوزت الحد المسموح به."); } else { System.out.println("المصاريف ضمن الحد المسموح."); } } }
+
 
 ## Export a file
 
@@ -210,7 +211,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTU3NDkyMywtMTAzOTQ2OTc2MCwyMD
+eyJoaXN0b3J5IjpbLTc5NDM1MTIzNiwtMTAzOTQ2OTc2MCwyMD
 QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
 NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
 AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
