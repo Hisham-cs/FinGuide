@@ -8,6 +8,7 @@
 - **Investment Recommendations:** tips for stocks, bonds, and mutual funds 📈
 -  **Expense Analysis:**  detailed visual reports on your spending habits 📊
 - 
+- 
 
 
 
@@ -146,7 +147,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI1MTkzMTQsMTQwODk4NDc4MywtMj
+eyJoaXN0b3J5IjpbLTE1MTA0ODg1NTcsMTQwODk4NDc4MywtMj
 A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
 ODQ1MCwtMzMyNDU1MzYzXX0=
 -->
