@@ -39,7 +39,105 @@
 ### Generating Reports
 
 Generate comprehensive financial reports to analyze your spending and savings:
-
+```
+{
+  "report": {
+    "period": {
+      "start_date": "2024-01-01",
+      "end_date": "2024-01-31"
+    },
+    "currency": "USD",
+    "income": {
+      "total": 5000,
+      "sources": [
+        {
+          "type": "salary",
+          "amount": 4000,
+          "description": "Monthly salary from main job"
+        },
+        {
+          "type": "investments",
+          "amount": 1000,
+          "description": "Returns from stock investments"
+        }
+      ]
+    },
+    "expenses": {
+      "total": 3200,
+      "categories": [
+        {
+          "category": "housing",
+          "amount": 1200,
+          "due_date": "2024-01-05",
+          "payment_status": "paid"
+        },
+        {
+          "category": "food",
+          "amount": 800,
+          "due_date": "2024-01-10",
+          "payment_status": "paid"
+        },
+        {
+          "category": "transportation",
+          "amount": 400,
+          "due_date": "2024-01-15",
+          "payment_status": "pending"
+        },
+        {
+          "category": "entertainment",
+          "amount": 300,
+          "due_date": "2024-01-20",
+          "payment_status": "paid"
+        },
+        {
+          "category": "utilities",
+          "amount": 500,
+          "due_date": "2024-01-25",
+          "payment_status": "pending"
+        }
+      ]
+    },
+    "savings": {
+      "total_savings": 1800,
+      "recommendations": "Consider increasing savings by 10% to meet your yearly goal."
+    },
+    "assets": {
+      "total_assets": 15000,
+      "details": [
+        {
+          "asset_type": "real estate",
+          "value": 10000,
+          "description": "Apartment in downtown"
+        },
+        {
+          "asset_type": "stocks",
+          "value": 5000,
+          "description": "Shares in tech companies"
+        }
+      ]
+    },
+    "liabilities": {
+      "total_liabilities": 4000,
+      "loans": [
+        {
+          "type": "mortgage",
+          "amount_due": 3000,
+          "next_payment_date": "2024-02-01",
+          "status": "up to date"
+        },
+        {
+          "type": "credit card",
+          "amount_due": 1000,
+          "next_payment_date": "2024-01-28",
+          "status": "pending"
+        }
+      ]
+    },
+    "net_balance": 11000,
+    "comments": "Your financial status is stable, but consider paying off your credit card debt earlier to avoid interest charges."
+  }
+}
+```
 
 ## Rename a file
 
@@ -168,8 +266,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE1NTQzMTIsLTE0Nzc3NDE4NiwxMD
-Y1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMTA4Njkx
-ODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0Nj
-gsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NT
+I1ODQ3NywtMTExOTYzMjY4OSwxMTQ4MDU2ODg4LDEwODY5MTgx
+MCwxNDA4OTg0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LD
+g4MzgyNzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
 -->
