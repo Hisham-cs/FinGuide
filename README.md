@@ -111,13 +111,9 @@ public class ExpenseTracker {
 | Application Name      | Description | Website                   |
 |-----------------------|------------|---------------------------|
 | **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com(https://www.mint.com) |
-| **Tadawul**        | Official platform for stocks in the Saudi financial market | [quickbooks.intuit.com](https://quickbooks.intuit.com) |
-| **PayPal**            | Online payment system for transactions and transfers.    | [paypal.com](https://www.paypal.com) |
-| **Zapier**            | Automation tool for connecting Chronos with other apps.  | [zapier.com](https://zapier.com) |
-| **Google Sheets**     | Spreadsheet tool for advanced data analysis and tracking. | [sheets.google.com](https://sheets.google.com) |
-| **Xero**              | Cloud-based accounting software for small businesses.     | [xero.com](https://www.xero.com) |
-| **Trello**            | Project management tool to organize tasks and workflows.  | [trello.com](https://trello.com) |
-| **Dropbox**           | Cloud storage service for file sharing and collaboration.  | [dropbox.com](https://www.dropbox.com) |
+| **Tadawul**| Official platform for stocks in the Saudi financial market | [https://www.saudiexchange.sa/wps/portal/tadawul/home/] |
+| **PayPal**| Online payment system for transactions and transfers.    | [paypal.com](https://www.paypal.com) |
+
 
 
 
@@ -126,11 +122,11 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDYyODM2LC04Njg1NTU1NjIsMTYwNj
-c5OTk2MSwxNTc4MjcyNDQ2LDIwOTQ0ODQyNzUsLTEwMzk0Njk3
-NjAsMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0MzMsMj
-M4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMzIwNDY5
-OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1NzQ2LD
-M2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0NzcsLTExMTk2
-MzI2ODldfQ==
+eyJoaXN0b3J5IjpbLTIxNDAxMzIxNjgsLTg2ODU1NTU2MiwxNj
+A2Nzk5OTYxLDE1NzgyNzI0NDYsMjA5NDQ4NDI3NSwtMTAzOTQ2
+OTc2MCwyMDQxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMy
+wyMzg2MTQ5NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0
+Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3ND
+YsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTEx
+OTYzMjY4OV19
 -->
