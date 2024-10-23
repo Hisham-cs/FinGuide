@@ -51,12 +51,10 @@ public class FinancialReport {
 }
 
 class Report {
-    String period;
-    String currency;
+    String period ,currency;
     Income income;
     Expenses expenses;
-    int savings;
-    int netBalance;
+    int savings, netBalance;
 
     public Report(String period, String currency, Income income, Expenses expenses, int savings, int netBalance) {
         this.period = period;
@@ -69,10 +67,8 @@ class Report {
 }
 
 class Income {
-    int total;
-    int salary;
-    int investments;
-
+    int total , salary, investments;
+    
     public Income(int total, int salary, int investments) {
         this.total = total;
         this.salary = salary;
@@ -81,10 +77,8 @@ class Income {
 }
 
 class Expenses {
-    int total;
-    int housing;
-    int food;
-    int transportation;
+    int total, housing,food;
+ transportation;
     int entertainment;
     int utilities;
 
@@ -227,7 +221,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDI0NDk4MCwzNjI1MTM5OTIsLTE0Nz
+eyJoaXN0b3J5IjpbMTI3Njg5MTUxMywzNjI1MTM5OTIsLTE0Nz
 c3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4
 ODgsMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLT
 ExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1
