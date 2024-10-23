@@ -85,7 +85,7 @@ class Expenses {
 
 - **Installation Issues:** If the app doesn't install, ensure your OS meets the system requirements
 - **Login Problems**: Check your internet connection or reset your password
-- **Inaccurate Budget Calculations:** If you notice discrepancies in your budget, review all income and expense entries for accuracy and ensure the correct currency is selected
+- **Inaccurate Budget Calculations:** If discrepancies occur, check your income and expense entries for accuracy and correct currency
 
 ## Delete a file
 
@@ -210,11 +210,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NzM4MTg3LC0xMDM5NDY5NzYwLDIwND
-E3NDQ1MjUsMjA5MjYyNjgyNywxMzA3MTYxNDMzLDIzODYxNDk3
-OSwtMjIzODMxODA1LDEwOTUwMTQ4MTgsLTMyMDQ2OTk2NiwxMD
-I2MDEyNjc2LDExNzgzNTk5MTAsLTU0Njc1NTc0NiwzNjI1MTM5
-OTIsLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LD
-ExNDgwNTY4ODgsMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5
-NzgxOTNdfQ==
+eyJoaXN0b3J5IjpbMTkzMTM5OTk3MywtMTAzOTQ2OTc2MCwyMD
+QxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5
+NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMT
+AyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3NTU3NDYsMzYyNTEz
+OTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3NywtMTExOTYzMjY4OS
+wxMTQ4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2
+OTc4MTkzXX0=
 -->
