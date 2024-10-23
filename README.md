@@ -13,9 +13,11 @@
 1.  **Windows**  
  - Download the installer from the official website
  - Run the installer and follow the on-screen instructions 
- ```shell start finadvisor_setup.exe ```
+- ```shell start FinGuide_setup.exe ```
  2.  **macOS**  
- - 
+ - Download the app from the App Store. 
+ - Open the app and follow the setup guide. 
+ -  ```shell open FinGuide.dmg ```
 
 ## Switch to another file
 
@@ -148,7 +150,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyOTQzNywxMTQ4MDU2ODg4LDEwODY5MT
-gxMCwxNDA4OTg0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4
-LDg4MzgyNzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwODkxNjEzODgsMTE0ODA1Njg4OCwxMD
+g2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzky
+MDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX
+0=
 -->
