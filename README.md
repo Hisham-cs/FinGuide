@@ -114,7 +114,11 @@ public class ExpenseTracker {
 
 
 **Tadawul**
-![Tadawul ](https://github.com/user-attachments/assets/5677d4d5-26c3-4c8b-aa14-70d341e6ea8d)
+![Tadawul](https://github.com/user-attachments/assets/5677d4d5-26c3-4c8b-aa14-70d341e6ea8d)
+
+**PayPal**
+![PayPal](https://github.com/user-attachments/assets/36cdb465-20d2-41f0-8752-7f3d13c00aed)
+
 
 
 
