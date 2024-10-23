@@ -10,7 +10,8 @@
 
 ## Installation Guide
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+1.  **Windows**  - Download the installer from the official website.
+ - Run the installer and follow the on-screen instructions. -  ```shell start FinGuide_setup.exe ```
 
 ## Switch to another file
 
@@ -143,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NjE5MTMxLDEwODY5MTgxMCwxNDA4OT
-g0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5
-NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU4NTk1NDgsMTA4NjkxODEwLDE0MD
+g5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3
+Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
 -->
