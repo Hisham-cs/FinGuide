@@ -10,7 +10,8 @@
 
 ## Installation Guide
 
-1.  **Windows**  - Download the installer from the official website.
+1.  **Windows**  
+ - Download the installer from the official website.
  - Run the installer and follow the on-screen instructions. -  ```shell start FinGuide_setup.exe ```
 
 ## Switch to another file
@@ -144,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU4NTk1NDgsMTA4NjkxODEwLDE0MD
+eyJoaXN0b3J5IjpbLTExODYyODU0MzYsMTA4NjkxODEwLDE0MD
 g5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3
 Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
 -->
