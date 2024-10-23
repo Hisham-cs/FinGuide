@@ -90,7 +90,7 @@ class Expenses {
 ## Advanced Usage
 
 ### Scripting
-Scripting calculates expenses and checks if they exceed a specified limit:
+calculates total monthly expenses and checks if they exceed a specified limit
 
 
 
@@ -214,7 +214,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjc5NzM4LDIwOTQ0ODQyNzUsLTEwMz
+eyJoaXN0b3J5IjpbNjU0MTQxOTEyLDIwOTQ0ODQyNzUsLTEwMz
 k0Njk3NjAsMjA0MTc0NDUyNSwyMDkyNjI2ODI3LDEzMDcxNjE0
 MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgxOCwtMz
 IwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNTQ2NzU1
