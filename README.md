@@ -121,7 +121,9 @@ public class ExpenseTracker {
 
 
 ## Footnotes
-1- Learn more about budgeting techniques at [NerdWallet.
+1. Learn more about budgeting techniques at [NerdWallet](https://www.nerdwallet.com/)
+2. 
+
 
 
 
@@ -133,11 +135,11 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMTc0MDg4LC0yMTIxMDM4ODAxLDEzMz
-AwNzQ3ODAsODMyNDEyMjU4LDM1Nzk0MjkyNywtODY4NTU1NTYy
-LDE2MDY3OTk5NjEsMTU3ODI3MjQ0NiwyMDk0NDg0Mjc1LC0xMD
-M5NDY5NzYwLDIwNDE3NDQ1MjUsMjA5MjYyNjgyNywxMzA3MTYx
-NDMzLDIzODYxNDk3OSwtMjIzODMxODA1LDEwOTUwMTQ4MTgsLT
-MyMDQ2OTk2NiwxMDI2MDEyNjc2LDExNzgzNTk5MTAsLTU0Njc1
-NTc0Nl19
+eyJoaXN0b3J5IjpbMjEyNjEzODM1MywtMjEyMTAzODgwMSwxMz
+MwMDc0NzgwLDgzMjQxMjI1OCwzNTc5NDI5MjcsLTg2ODU1NTU2
+MiwxNjA2Nzk5OTYxLDE1NzgyNzI0NDYsMjA5NDQ4NDI3NSwtMT
+AzOTQ2OTc2MCwyMDQxNzQ0NTI1LDIwOTI2MjY4MjcsMTMwNzE2
+MTQzMywyMzg2MTQ5NzksLTIyMzgzMTgwNSwxMDk1MDE0ODE4LC
+0zMjA0Njk5NjYsMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01NDY3
+NTU3NDZdfQ==
 -->
