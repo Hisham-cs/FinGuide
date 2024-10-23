@@ -1,7 +1,5 @@
 # FinGuide - Your Financial Advisor
-
- **StackEdit**. financial advisory app designed to help users manage their finances effectively. It offers finances advice, budgeting tools, and investment insights to ensure users make correct financial decisions.
-
+ **financial advisory app** designed to help users manage their finances effectively. It offers finances advice, budgeting tools, and investment insights to ensure users make correct financial decisions.
 
 # Files
 
@@ -142,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njc5NzAyNiwxMjA0NTA4NDUwLC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMj
+Q1NTM2M119
 -->
