@@ -113,9 +113,7 @@ public class ExpenseTracker {
 | **Mint**| Personal finance tool for budgeting and expense tracking.| [mint.com (https://www.mint.com) |
 | **PayPal**            | Online payment system for transactions and transfers.    | [paypal.com](https://www.paypal.com) |
 | **Google Sheets**     | Spreadsheet tool for advanced data analysis and tracking. | [sheets.google.com](https://sheets.google.com) |
-| **Xero**              | Cloud-based accounting software for small businesses.     | [xero.com](https://www.xero.com) |
-| **Trello**            | Project management tool to organize tasks and workflows.  | [trello.com](https://trello.com) |
-| **Dropbox**           | Cloud storage service for file sharing and collaboration.  | [dropbox.com](https://www.dropbox.com) |
+
 
 
 
@@ -124,7 +122,7 @@ public class ExpenseTracker {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzUyNDg0OCwxNjA2Nzk5OTYxLDE1Nz
+eyJoaXN0b3J5IjpbMTg1NjY5OTg5NCwxNjA2Nzk5OTYxLDE1Nz
 gyNzI0NDYsMjA5NDQ4NDI3NSwtMTAzOTQ2OTc2MCwyMDQxNzQ0
 NTI1LDIwOTI2MjY4MjcsMTMwNzE2MTQzMywyMzg2MTQ5NzksLT
 IyMzgzMTgwNSwxMDk1MDE0ODE4LC0zMjA0Njk5NjYsMTAyNjAx
