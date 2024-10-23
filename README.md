@@ -40,13 +40,11 @@
 
 Generate comprehensive financial reports to analyze your spending and savings:
 
-```{
+```{ 
   "report": {
     "income": 5000,
-    "expenses": 3000,
-    "savings": 2000
-  }
-} ``` 
+   "expenses": 3000,
+"savings": 2000}} ```
 
 ## Rename a file
 
@@ -175,8 +173,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA4NDc1MjAsLTE0Nzc3NDE4NiwxMD
-Y1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMTA4Njkx
-ODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5MjA0Nj
-gsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTM0NTM4Mjg0MCwtMTQ3Nzc0MTg2LDEwNj
+UyNTg0NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4
+MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OC
+w4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
 -->
