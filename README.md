@@ -44,7 +44,6 @@ public class FinancialReport {
 
     public static void main(String[] args) {
         Report report = new Report("2024-01-01 to 2024-04-31","SAR",new Income(10000, 8000, 2000),new Expenses(6000),2000,2000);
-        
         System.out.println("Total Income: " + report.income.total);
         System.out.println("Total Expenses: " + report.expenses.total);
         System.out.println("Net Balance: " + report.netBalance);
@@ -207,9 +206,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjAxMjY3NiwxMTc4MzU5OTEwLC01ND
-Y3NTU3NDYsMzYyNTEzOTkyLC0xNDc3NzQxODYsMTA2NTI1ODQ3
-NywtMTExOTYzMjY4OSwxMTQ4MDU2ODg4LDEwODY5MTgxMCwxND
-A4OTg0NzgzLC0yMDY2OTc4MTkzLC0xMTAzOTIwNDY4LDg4Mzgy
-NzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTMyMDQ2OTk2NiwxMDI2MDEyNjc2LDExNz
+gzNTk5MTAsLTU0Njc1NTc0NiwzNjI1MTM5OTIsLTE0Nzc3NDE4
+NiwxMDY1MjU4NDc3LC0xMTE5NjMyNjg5LDExNDgwNTY4ODgsMT
+A4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNjY5NzgxOTMsLTExMDM5
+MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M1
+19
 -->
