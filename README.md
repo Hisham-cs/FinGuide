@@ -81,9 +81,9 @@ class Expenses {
 }
 ```
 
-## Rename a file
+## Troubleshooting
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+-**Installation Issues**: If the app doesn't install, ensure your OS meets the system requirements.
 
 ## Delete a file
 
@@ -208,11 +208,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjYyNjgyNywxMzA3MTYxNDMzLDIzOD
-YxNDk3OSwtMjIzODMxODA1LDEwOTUwMTQ4MTgsLTMyMDQ2OTk2
-NiwxMDI2MDEyNjc2LDExNzgzNTk5MTAsLTU0Njc1NTc0NiwzNj
-I1MTM5OTIsLTE0Nzc3NDE4NiwxMDY1MjU4NDc3LC0xMTE5NjMy
-Njg5LDExNDgwNTY4ODgsMTA4NjkxODEwLDE0MDg5ODQ3ODMsLT
-IwNjY5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1
-MDg0NTBdfQ==
+eyJoaXN0b3J5IjpbLTUxNzgzOTgxMywyMDkyNjI2ODI3LDEzMD
+cxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMTA5NTAxNDgx
+OCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1OTkxMCwtNT
+Q2NzU1NzQ2LDM2MjUxMzk5MiwtMTQ3Nzc0MTg2LDEwNjUyNTg0
+NzcsLTExMTk2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMT
+QwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4
+Mjc2OTZdfQ==
 -->
