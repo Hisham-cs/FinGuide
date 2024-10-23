@@ -3,8 +3,9 @@
 
 ## Key Features
 
-**Personal financial plan:** made plans based on user goals and financial status📈
-**Budget Management:** Track income and expenses effortlessly.
+**Personal financial plan:** made plans based on user goals and financial status 📈
+**Budget Management:** Track income and expenses Automatically 💰
+
 
 ## Create files and folders
 
@@ -141,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1OTU5NDcwLC0xMTAzOTIwNDY4LDg4Mz
-gyNzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTM3OTQ5MDI5NCwtMTEwMzkyMDQ2OCw4OD
+M4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
 -->
