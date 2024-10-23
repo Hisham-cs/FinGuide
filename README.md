@@ -3,7 +3,7 @@
 
 ## Key Features
 
-**Personalized Financial Planning:** Tailor-made plans based on user goals and financial status.
+**Personal financial plan:** made plans based on user goals and financial status.
 
 ## Create files and folders
 
@@ -140,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjkyNjMsLTExMDM5MjA0NjgsODgzOD
-I3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNTI3ODQzMDg5LC0xMTAzOTIwNDY4LDg4Mz
+gyNzY5NiwxMjA0NTA4NDUwLC0zMzI0NTUzNjNdfQ==
 -->
