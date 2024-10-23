@@ -5,6 +5,8 @@
 
 **Personal financial plan:** made plans based on user goals and financial status 📈
 **Budget Management:** Track income and expenses Automatically 💰
+**Investment Recommendations:** Get suggestions for stocks, bonds, and mutual funds.
+
 
 
 ## Create files and folders
@@ -142,6 +144,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTQ5MDI5NCwtMTEwMzkyMDQ2OCw4OD
-M4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIwNjY5NzgxOTMsLTExMDM5MjA0NjgsOD
+gzODI3Njk2LDEyMDQ1MDg0NTAsLTMzMjQ1NTM2M119
 -->
