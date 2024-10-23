@@ -2,15 +2,11 @@
  **financial advisory app** designed to help users manage their finances effectively. It offers finances advice, budgeting tools, and investment insights to ensure users make correct financial decisions.
 
 ## Key Features
-
 - **Personal financial plan:** made plans based on user goals and financial status 📝
 - **Budget Management:** track income and expenses Automatically 💰
 - **Investment Recommendations:** tips for stocks, bonds, and mutual funds 📈
--  **Expense Analysis:**  detailed visual reports on your spending habits 📊
+-  **Expense Analysis:**  detailed visual reports on user spending habits 📊
 - **Goal Tracking:** set and track financial goals 🎯
-- 
-
-
 
 ## Create files and folders
 
@@ -147,7 +143,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg3NzE0MTksMTQwODk4NDc4MywtMj
-A2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMTIwNDUw
-ODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTA4NjkxODEwLDE0MDg5ODQ3ODMsLTIwNj
+Y5NzgxOTMsLTExMDM5MjA0NjgsODgzODI3Njk2LDEyMDQ1MDg0
+NTAsLTMzMjQ1NTM2M119
 -->
