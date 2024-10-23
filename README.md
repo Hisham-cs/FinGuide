@@ -21,7 +21,7 @@
   - Download the package from the website.
   - Install using the terminal:  ```sudo dpkg -i FinGuide.deb ```
 
-## Switch to another file
+## User Guide
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
@@ -152,8 +152,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTI1ODQ3NywtMTExOTYzMjY4OSwxMT
-Q4MDU2ODg4LDEwODY5MTgxMCwxNDA4OTg0NzgzLC0yMDY2OTc4
-MTkzLC0xMTAzOTIwNDY4LDg4MzgyNzY5NiwxMjA0NTA4NDUwLC
-0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbODYxMDM3MDgwLDEwNjUyNTg0NzcsLTExMT
+k2MzI2ODksMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwODk4NDc4
+MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2OTYsMT
+IwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
 -->
