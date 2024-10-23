@@ -11,8 +11,10 @@
 ## Installation Guide
 
 1.  **Windows**  
- - Download the app from the official website
- - Run the app and follow the on-screen instructions 
+ - Download the installer from the official website
+ - Run the installer and follow the on-screen instructions 
+ 2.  **macOS**  
+ - 
 
 ## Switch to another file
 
@@ -145,7 +147,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODA1Njg4OCwxMDg2OTE4MTAsMTQwOD
-k4NDc4MywtMjA2Njk3ODE5MywtMTEwMzkyMDQ2OCw4ODM4Mjc2
-OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE4NzY2NjAxMDgsMTE0ODA1Njg4OCwxMD
+g2OTE4MTAsMTQwODk4NDc4MywtMjA2Njk3ODE5MywtMTEwMzky
+MDQ2OCw4ODM4Mjc2OTYsMTIwNDUwODQ1MCwtMzMyNDU1MzYzXX
+0=
 -->
