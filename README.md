@@ -123,24 +123,3 @@ public class ExpenseTracker {
 ## Footnotes
 1. For more information on personal finance management, visit the Consumer Financial Protection Bureau's guide on managing money effectively at [CFPB Guide](https://www.consumerfinance.gov/)
 2. Learn more about budgeting techniques at [NerdWallet](https://www.nerdwallet.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzU2MzEwLDIxMjYxMzgzNTMsLTIxMj
-EwMzg4MDEsMTMzMDA3NDc4MCw4MzI0MTIyNTgsMzU3OTQyOTI3
-LC04Njg1NTU1NjIsMTYwNjc5OTk2MSwxNTc4MjcyNDQ2LDIwOT
-Q0ODQyNzUsLTEwMzk0Njk3NjAsMjA0MTc0NDUyNSwyMDkyNjI2
-ODI3LDEzMDcxNjE0MzMsMjM4NjE0OTc5LC0yMjM4MzE4MDUsMT
-A5NTAxNDgxOCwtMzIwNDY5OTY2LDEwMjYwMTI2NzYsMTE3ODM1
-OTkxMF19
--->
